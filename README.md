@@ -8,9 +8,9 @@
     <h2>
       about
     </h2>
-    <h2>
+    <h3>
       contact
-    </h2>
-    <h3>Projects</h3>
+    </h3>
+    <h4>Projects</h4>
   </body>
 </html>
