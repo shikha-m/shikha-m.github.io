@@ -8,8 +8,8 @@
     <h2>
       about
     </h2>
-    <h3>
+    <h2>
       contact
-    </h3>
+    </h2>
   </body>
 </html>
